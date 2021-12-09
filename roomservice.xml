@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<project path="device/samsung/j1pop3g" name="TriDiscord/android_device_samsung_j1pop3g" revision="cm-13.1" />
+	<project path="kernel/samsung/j1pop3g" name="TriDiscord/android_kernel_samsung_j1pop3g" revision="cm-13.1" />
+	<project path="vendor/samsung/j1pop3g" name="TriDiscord/android_vendor_samsung_j1pop3g" revision="cm-13.1" />
+  <project path="vendor/samsung/sprd-common" name="TriDiscord/android_device_samsung_sprd-common" revision="cm-13.1" />
+</manifest>
